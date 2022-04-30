@@ -1,31 +1,34 @@
 
 
+ 
+<h1 align="center"> Hey! I'm Minh Tri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### Hi there 👋
+[![GitHub followers](https://img.shields.io/github/followers/minhtri25.svg?style=social&label=Followers)](https://github.com/minhtri25?tab=followers) 
 
-<img src="https://profile-counter.glitch.me/minhtri25/count.svg">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+a+Developer...;Nice+to+meet+you!;Are+you+looking+for+me?;&center=true&width=500&height=50"></a>
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/minhtri25.svg?style=social&label=Followers)](https://github.com/minhtri25?tab=followers)
+<img src="https://komarev.com/ghpvc/?username=minhtri25&label=Views&color=brightgreen&style=flat-square" alt="views on github" align="center" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Minh+Tri!;Are+you+looking+for+me?;I'm+a+Developer...;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+## :sassy_man: About me
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300"/>
+ 
+- 🔭 I am currently graduated from FPT University
+- 🌱 I had 5 months of internship at Fpt software Da Nang
+- 👯 I’m looking to collaborate on Java, NodeJs, ReactJs Projects
+- 💬 Ask me about Programming
+- 🤔 I am looking for a place that can help me develop my capacity and career
+- 📫 Responsibility at work is always my priority
+- 💻: My self-study ability is very high
+- 😄  Pronouns: He/His
 
-<h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Flutter Projects
-- 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
-- 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or Machine Learning
-- 📫 I am also a technical writer at Medium 
--  📰 Articles: 
-	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
-	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010)
-
-<p>Connect with me on
+## 🤝 Connect with me on:
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/ahmadshaikhk/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<p align="center">
+<a target="_blank" href="https://www.facebook.com/profile.php?id=100006159047752"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 &emsp;
 <a target="_blank" href="mailto:ahmed.bilal575@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
@@ -33,29 +36,10 @@
 <a target="_blank" href="https://twitter.com/ahmadshaikhk"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
-
+</p>
 
 <br>
-</p>
-- 😄 Pronouns: ... We/Us
-- ⚡ Fun fact: ... I am batman. 😎🦇 
 
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ahmad-shaikh575&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
-
-<hr>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmad-shaikh575&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ahmad-shaikh575&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
-
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ahmad-shaikh575&theme=gruvbox&hide_border=true&area=true)
 
 
 
@@ -63,7 +47,7 @@
 
 ### 👉 Programming languages
 
-<p align="left"> 
+<p align="center"> 
   
 
   <a href="https://dart.dev/">
@@ -81,8 +65,14 @@
 
 </p>
 
+### 👉 Front-end Development
+<p align="center"> 
+&emsp;
+
+</p>
+
 ### 👉 Frameworks
-<p align="left"> 
+<p align="center"> 
 &emsp;
   <a href="https://flutter.dev/" target="_blank"> 
      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -106,7 +96,7 @@
 </p>
 
 ### 👉 Databases & Cloud Hosting
-<p align="left">
+<p align="center">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
@@ -119,7 +109,7 @@
 
  ### 👉 Software & Tools
  
-<p>
+<p align="center">
   &emsp;
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   &emsp;
@@ -148,12 +138,17 @@
     &emsp;
     
 </p>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
+
+## 👀 Some of my public repositories (not forks):
+
+- **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/AvidCoder101/AvidCoder101)**
+- **[My BMI Calculator Repo - AvidCoder101/BMICalculator](https://github.com/AvidCoder101/BMICalculator)**
+- **[My To-do List Repo - AvidCoder101/To-do-list](https://github.com/AvidCoder101/To-do-list)**
+- **[My Harry Potter Quiz Repo - AvidCoder101/Harry-Potter-Quiz](https://github.com/AvidCoder101/Harry-Potter-Quiz)**
+- **[My Drawing Repo - AvidCoder101/Drawing-App](https://github.com/AvidCoder101/Drawing-App)**
+- **[My Clock Repo - AvidCoder101/Clock-App](https://github.com/AvidCoder101/Clock-App)**
 
 
-<br/>
+## 🏆 Certifications!
 
-------
-Credit: [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
-Last Edited on: 08/09/2021
+### Thank you for visiting my profile 🤓 
