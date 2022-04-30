@@ -30,12 +30,9 @@
 <p align="center">
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100006159047752"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 &emsp;
-<a target="_blank" href="mailto:ahmed.bilal575@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:triprotri25@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 &emsp;
-<a target="_blank" href="https://twitter.com/ahmadshaikhk"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+<a href = 'https://www.github.com/minhtri25'><img width = '48px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 </p>
 
 <br>
@@ -48,18 +45,16 @@
 ### 👉 Programming languages
 
 <p align="center"> 
-  
-
-  <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <a href="https://www.java.com">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   </a>
 &emsp;
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+<a href="https://www.javascript.com">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   </a>
   &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<a href="https://nodejs.org">
+   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   </a>
 
 
@@ -67,75 +62,101 @@
 
 ### 👉 Front-end Development
 <p align="center"> 
+  <a href="https://www.w3schools.com/html/">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  </a>
 &emsp;
+  <a href="https://www.w3schools.com/css/">
+   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  </a>
+&emsp;
+  <a href="https://www.java.com">
+   <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+  </a>
+&emsp;
+  <a href="https://getbootstrap.com/">
+     <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+  </a>
+&emsp;
+</p>
 
+### 👉 Mobile
+<p align="center"> 
+  <a href="https://developer.android.com">
+    <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
+  </a>
+&emsp;
 </p>
 
 ### 👉 Frameworks
 <p align="center"> 
 &emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
-     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <a href="https://spring.io/" target="_blank"> 
+     <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
    </a>
   &emsp; 
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <a href="https://redux-toolkit.js.org/" target="_blank"> 
+     <img src="https://img.icons8.com/color/48/000000/redux.png"/>
   </a>   
   &emsp;
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
 <p align="center">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://www.mongodb.com/">
+     <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+    </a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+    <a href="https://www.microsoft.com/en-us/sql-server">
+      <img src="https://img.icons8.com/color/48/000000/sql.png"/>
+    </a>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://firebase.google.com/">
+      <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+    </a>
   &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
  </p>
 
  ### 👉 Software & Tools
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://visualstudio.microsoft.com/">
+     <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/>
+ </a>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+ <a href="https://code.visualstudio.com/">
+      <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+ </a>
   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+ <a href="https://developer.android.com/studio">
+     <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
+ </a>
   &emsp;
-    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
+ <a href="https://www.eclipse.org/downloads/">
+      <img src="https://img.icons8.com/office/48/000000/java-eclipse.png"/>
+ </a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+ <a href="https://git-scm.com/">
+     <img src="https://img.icons8.com/color/48/000000/git.png"/>
+ </a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-&emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
-    &emsp;
-     <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-    &emsp; <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
-    &emsp;
+    <a href="https://www.figma.com">
+      <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+   </a>
+  &emsp;
+    <a href="https://stackoverflow.com/">
+      <img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+   </a>
+  &emsp;
+    <a href="https://gitlab.com">
+     <img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
+  </a>
+  &emsp;
+    <a href="https://www.notion.so">
+      <img src="https://img.icons8.com/color/48/000000/notion--v1.png"/>
+    </a>
     
 </p>
 
