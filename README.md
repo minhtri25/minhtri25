@@ -163,22 +163,21 @@
 
 ## 👀 Some of my public repositories (not forks):
 
-- **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/AvidCoder101/AvidCoder101)**
-- **[My BMI Calculator Repo - AvidCoder101/BMICalculator](https://github.com/AvidCoder101/BMICalculator)**
-- **[My To-do List Repo - AvidCoder101/To-do-list](https://github.com/AvidCoder101/To-do-list)**
-- **[My Harry Potter Quiz Repo - AvidCoder101/Harry-Potter-Quiz](https://github.com/AvidCoder101/Harry-Potter-Quiz)**
-- **[My Drawing Repo - AvidCoder101/Drawing-App](https://github.com/AvidCoder101/Drawing-App)**
-- **[My Clock Repo - AvidCoder101/Clock-App](https://github.com/AvidCoder101/Clock-App)**
+- **[LIFE - Love Is For Everyone (Mobile)](https://github.com/AvidCoder101/AvidCoder101)**
+- **[AR - AntiRetake (Web)](https://github.com/AvidCoder101/BMICalculator)**
+- **[Hotel Management (Web)](https://github.com/AvidCoder101/To-do-list)**
+- **[Retaker888 (Mobile + Web)](https://github.com/AvidCoder101/Harry-Potter-Quiz)**
+
 
 
 ## 🏆 Certifications!
 
 <p align="center">
     <a href="https://coursera.org/share/4c4be04269d396acb6dea0587b742c5a">
-      <img src="https://img.icons8.com/color/48/000000/notion--v1.png"/>
+      <img src="certificates/CourseWebDesign.png" width="350px"/>
     </a>
    <a href="https://coursera.org/share/d2225a78acdcf7b733286a304478e867">
-      <img src="https://img.icons8.com/color/48/000000/notion--v1.png"/>
+      <img src="certificates/CourseProjectManagement.png" width="350px"/>
     </a>
  </p>
 
