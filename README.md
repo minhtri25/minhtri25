@@ -21,8 +21,8 @@
 - 💬 Ask me about Programming
 - 🤔 I am looking for a place that can help me develop my capacity and career
 - 📫 Responsibility at work is always my priority
-- 💻: My self-study ability is very high
-- 😄  Pronouns: He/His
+- 💻 My self-study ability is very high
+- 😄 Pronouns: He/His
 
 
 ## 🤝 Connect with me on:
@@ -32,7 +32,8 @@
 &emsp;
 <a target="_blank" href="mailto:triprotri25@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 &emsp;
-<a href = 'https://www.github.com/minhtri25'><img width = '48px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+ <a target="_blank" href="https://www.github.com/minhtri25"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+&emsp;
 </p>
 
 <br>
@@ -109,7 +110,7 @@
     </a>
   &emsp;
     <a href="https://www.microsoft.com/en-us/sql-server">
-      <img src="https://img.icons8.com/color/48/000000/sql.png"/>
+     <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
     </a>
   &emsp;
     <a href="https://firebase.google.com/">
@@ -157,7 +158,7 @@
     <a href="https://www.notion.so">
       <img src="https://img.icons8.com/color/48/000000/notion--v1.png"/>
     </a>
-    
+  &emsp;
 </p>
 
 ## 👀 Some of my public repositories (not forks):
@@ -171,5 +172,14 @@
 
 
 ## 🏆 Certifications!
+
+<p align="center">
+    <a href="https://coursera.org/share/4c4be04269d396acb6dea0587b742c5a">
+      <img src="https://img.icons8.com/color/48/000000/notion--v1.png"/>
+    </a>
+   <a href="https://coursera.org/share/d2225a78acdcf7b733286a304478e867">
+      <img src="https://img.icons8.com/color/48/000000/notion--v1.png"/>
+    </a>
+ </p>
 
 ### Thank you for visiting my profile 🤓 
